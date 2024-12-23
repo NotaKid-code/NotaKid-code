@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @NotaKid-code
+- 👋 Hi, I’m Mxtion
 - 👀 I’m interested in: Programming
-- 🌱 I’m currently learning: Programming!
+- 🌱 I’m currently learning: Python!
 - 😄 Pronouns: He/Him
 
 <!---
